@@ -1,2 +1,2 @@
-public class LoginUtility {
+public class LoginUtility{
 }
